@@ -1,6 +1,6 @@
 # SoulSync - A Campus Mental Health Companion
 
-This is a Next.js application built with Firebase Studio.
+
 
 ## Running Locally
 
